@@ -1,0 +1,2 @@
+## Time Series Forecasting - Store Sales
+This project is is an end to end deployable program that provides exploratory analyses of sales data from Ecudorian grocery retailer Corporacion Favorita and a model that forecasts the unit sales for the thousands of items sold accross different FAvorita stores.
